@@ -1,0 +1,4 @@
+Page Url:
+
+https://twogood.com.au/?utm_source=google&utm_medium=cpc&utm_campaign={{campaign.name}}&gclid=CjwKCAiAzc2tBhA6EiwArv-i6Z8q877fWFHxxNQ39ChB4IxuOLzkhsQvrneVEwd3vRQ-QJGRxaUw0hoCi7YQAvD_BwE
+
